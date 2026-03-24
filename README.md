@@ -1,5 +1,3 @@
-# vehicle-api
-Vehicle API for 17-648 IoT project milestone 1
 # Vehicle API
 
 This project implements a Vehicle API for the 17-648 IoT project (Milestone 1).
